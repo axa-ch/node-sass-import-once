@@ -2,6 +2,7 @@
 
 ## v1.2.1
 ### February 17, 2017
+* **New** Published withing `@axa-ch` org
 * **Bugfix** Fixed error wern't passed properly to `node-sass`
 
 ## v1.1.1
